@@ -1,5 +1,5 @@
 
-### This Project aim to create Stack as a serivce for the most known Technology stacks 
+ This Project aim to create Stack as a serivce for the most known Technology stacks 
 
 ### We will start with LAMP stack with Wordpress
 ### We will start with one node stack 
