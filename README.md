@@ -4,6 +4,11 @@ Developers usually have to download a number of tools to set up a dev environmen
 
 This Project aim to create Stack as a serivce for the most known Technology stacks 
 
+like :  LAMP stack - Java Stack - Java  Tomcat  ..... etc
+     or even a cutomized stack like you will say i need frontend java and application server Tomcat and database postgress or mysql 
+
+So 1st stage we will start with. 
+
 -  We will start with LAMP stack with Wordpress
 -  We will start with one node stack 
 - We use for now bash scirpt but in the fiture we will use more modern Frontend language 
