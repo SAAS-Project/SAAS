@@ -13,8 +13,9 @@ In fact, using a running container for development is optional. Developers may j
 However, in practice, it was not as seamless and straightforward as we thought it would be, as we will see in the following text.
 
 
+-----------------------------------------------------------------------------------------------------------------------------
 
-- This Project aim to create Stack as a serivce for the most known Technology stacks 
+This Project aim to create Stack as a serivce for the most known Technology stacks 
 
 like :  LAMP stack - Java Stack - Java  Tomcat  ..... etc
      or even a cutomized stack like you will say i need frontend java and application server Tomcat and database postgress or mysql 
